@@ -1,2 +1,2 @@
 # C++
-Contains all of my projects written in C++
+Contains my projects written in C++
