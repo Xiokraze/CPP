@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Xamarin.Essentials;
 using Xamarin.Forms;
 
 namespace DnDMobile
@@ -16,6 +17,7 @@ namespace DnDMobile
         public MainPage()
         {
             InitializeComponent();
+            labeldnd.Text = "Dungeons & Dragons Mobile";
         }
     }
 }
